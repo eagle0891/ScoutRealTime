@@ -1,0 +1,7 @@
+00:28:47.881 [TestNG] INFO  Resources.base - Navigated to homepage
+00:28:48.140 [TestNG] INFO  Resources.base - Navigated to homepage successfully
+00:28:48.865 [TestNG] INFO  Resources.base - Site Logo image is displayed successfully
+00:28:48.982 [TestNG] INFO  Resources.base - Cookie policy accepted
+00:28:49.831 [TestNG] INFO  Resources.base - Cookie policy accepted
+00:28:50.852 [TestNG] INFO  Resources.base - Search term entered
+00:28:51.304 [TestNG] INFO  Resources.base - Ultimate guide link clicked

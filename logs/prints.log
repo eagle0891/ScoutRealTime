@@ -1,0 +1,6 @@
+12:01:59.369 [TestNG] INFO  Resources.base - Cookie policy accepted
+12:01:59.816 [TestNG] INFO  Resources.base - Search term entered
+12:02:04.110 [TestNG] INFO  Resources.base - Browser closed
+12:04:11.728 [TestNG] INFO  Resources.base - Navigated to homepage
+12:04:12.114 [TestNG] INFO  Resources.base - Cookie policy accepted
+12:04:12.660 [TestNG] INFO  Resources.base - Ultimate guide link clicked

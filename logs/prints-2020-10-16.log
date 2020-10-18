@@ -1,0 +1,8 @@
+16:03:57.579 [main] INFO  Resources.base - Ultimate guide link clicked
+16:03:58.362 [main] INFO  Resources.base - Ultimate guide title is correct
+16:03:59.036 [main] INFO  Resources.base - Browser closed
+01:24:41.969 [TestNG] INFO  Resources.base - Navigated to homepage
+01:24:42.611 [TestNG] INFO  Resources.base - Cookie policy accepted
+01:24:43.924 [TestNG] INFO  Resources.base - Ultimate guide link clicked
+01:24:44.355 [TestNG] INFO  Resources.base - Ultimate guide title is correct
+01:30:13.941 [TestNG] INFO  Resources.base - Navigated to homepage

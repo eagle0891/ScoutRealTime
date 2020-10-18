@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="ScoutMaven.Listeners"/>
+  </listeners>
+  <test name="Validate Ulimate Guide post links(failed)" parallel="tests">
+    <classes>
+      <class name="ScoutMaven.HeaderMenu">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initializeTest"/>
+        </methods>
+      </class> <!-- ScoutMaven.HeaderMenu -->
+      <class name="ScoutMaven.UltimateGuides">
+        <methods>
+          <include name="initializeTest"/>
+          <include name="tearDown"/>
+          <include name="UltimateGuidePosts"/>
+        </methods>
+      </class> <!-- ScoutMaven.UltimateGuides -->
+      <class name="ScoutMaven.Homepage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initializeTest"/>
+        </methods>
+      </class> <!-- ScoutMaven.Homepage -->
+    </classes>
+  </test> <!-- Validate Ulimate Guide post links(failed) -->
+</suite> <!-- Failed suite [Suite] -->
